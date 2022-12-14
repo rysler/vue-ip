@@ -11,8 +11,8 @@
     $ip-material-valid := #409EFF
     $ip-material-in-valid := #f25d59
 
-    $ip-material-color := #e0e0e0
-    $ip-material-color-mute := rgba(250,250,250,0.6);
+    $ip-material-color := #e01a00
+    $ip-material-color-mute := rgba(250, 1, 1, 0.6);
     $ip-material-fontSize := inherit
 
     $ip-transition-speed := .15s
