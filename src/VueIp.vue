@@ -9,7 +9,7 @@
 
 <style lang="stylus" scoped>
     $ip-material-valid := #409EFF
-    $ip-material-in-valid := #f25d59
+    $ip-material-in-valid := #27f2f2
 
     $ip-material-color := #e01a00
     $ip-material-color-mute := rgba(250, 1, 1, 1);
