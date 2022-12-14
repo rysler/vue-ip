@@ -8,11 +8,11 @@
 </template>
 
 <style lang="stylus" scoped>
-    $ip-material-valid := #409EFF
-    $ip-material-in-valid := #27f2f2
+    $ip-material-valid := #000000
+    $ip-material-in-valid := #000000
 
-    $ip-material-color := #e01a00
-    $ip-material-color-mute := rgba(250, 1, 1, 1);
+    $ip-material-color := #000000
+    $ip-material-color-mute := rgba(0, 0, 0, 1.0);
     $ip-material-fontSize := inherit
 
     $ip-transition-speed := .15s
