@@ -8,7 +8,7 @@
 </template>
 
 <style lang="stylus" scoped>
-    $ip-material-valid := #000000
+    $ip-material-valid := #000001
     $ip-material-in-valid := #000000
 
     $ip-material-color := #000000
