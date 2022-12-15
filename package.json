@@ -1,8 +1,8 @@
 {
   "name": "vue-ip",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "main": "./dist/vue-ip.min.js",
-  "repository": "https://github.com/peteringram0/vue-ip",
+  "repository": "https://github.com/rysler/vue-ip",
   "author": "Peter Ingram <peter.ingram0@gmail.com>",
   "license": "MIT",
   "scripts": {
