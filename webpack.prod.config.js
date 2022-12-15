@@ -7,7 +7,7 @@ config.mode = 'production';
 
 config.output = {
     path: path.resolve('dist') + '/',
-    filename: 'vue-ip.min.js',
+    filename: 'vue-ip.mine.js',
     library: 'VueIp',
     libraryTarget: 'umd',
 };
